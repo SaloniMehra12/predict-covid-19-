@@ -1,0 +1,16 @@
+# predict-covid-19-
+predict whether  a chest x-ray image shows covid-19 disease or not 
+![image](https://github.com/SaloniMehra12/predict-covid-19-/blob/master/Read_me-page0001.jpg)
+![image](https://github.com/SaloniMehra12/predict-covid-19-/blob/master/Read_me-page0002.jpg)
+![image](https://github.com/SaloniMehra12/predict-covid-19-/blob/master/Read_me-page0003.jpg)
+![image](https://github.com/SaloniMehra12/predict-covid-19-/blob/master/Read_me-page0004.jpg)
+![image](https://github.com/SaloniMehra12/predict-covid-19-/blob/master/Read_me-page0005.jpg)
+![image](https://github.com/SaloniMehra12/predict-covid-19-/blob/master/Read_me-page0006.jpg)
+![image](https://github.com/SaloniMehra12/predict-covid-19-/blob/master/Read_me-page0007.jpg)
+![image](https://github.com/SaloniMehra12/predict-covid-19-/blob/master/Read_me-page0008.jpg)
+![image](https://github.com/SaloniMehra12/predict-covid-19-/blob/master/Read_me-page0009.jpg)
+![image](https://github.com/SaloniMehra12/predict-covid-19-/blob/master/Read_me-page0010.jpg)
+![image](https://github.com/SaloniMehra12/predict-covid-19-/blob/master/Read_me-page0011.jpg)
+![image](https://github.com/SaloniMehra12/predict-covid-19-/blob/master/Read_me-page0012.jpg)
+![image](https://github.com/SaloniMehra12/predict-covid-19-/blob/master/Read_me-page0013.jpg)
+![image](https://github.com/SaloniMehra12/predict-covid-19-/blob/master/Read_me-page0014.jpg)
